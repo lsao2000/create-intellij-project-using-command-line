@@ -6,7 +6,7 @@ intellij idea community eddition.
 
 ubuntu.
 
-## Instruction
+## Description
 this file is for create a new project in the intellij idea using just command this save a lot of time instead of open the intellij and create new java project with intellij using this file with basic command that provided below will help you a lot and you can after that change the main class bassed on your project,
 if you encounter any problem dont forget to mention it. 
 ## Installation
